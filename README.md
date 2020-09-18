@@ -16,11 +16,17 @@ To check for consistency, we explored 6 more languages, and made an preliminary 
 Visualizations:
 
 English: https://www.kaggle.com/bestofbests9/visualization-2
+
 Dutch: https://www.kaggle.com/bestofbests9/dutch-wiki
+
 Spanish: https://www.kaggle.com/bestofbests9/spanish-wiki
+
 French: https://www.kaggle.com/bestofbests9/french-wiki
+
 Russian: https://www.kaggle.com/bestofbests9/russian-wiki
+
 Polish: https://www.kaggle.com/bestofbests9/polish-wiki
+
 Swedish: https://www.kaggle.com/bestofbests9/swedish-wiki
 
 The Datasets are private, kindly drop a mail at ritam170107030@iitg.ac.in to get access to the Datasets.
