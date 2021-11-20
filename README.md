@@ -30,3 +30,6 @@ Polish: https://www.kaggle.com/bestofbests9/polish-wiki
 Swedish: https://www.kaggle.com/bestofbests9/swedish-wiki
 
 The Datasets are private, kindly drop a mail at ritam170107030@iitg.ac.in to get access to the Datasets.
+
+To be Added:
+Improvements in LM, NER and POS tasks by rectifying the ground-truth Wikipedia based datasets using Transformers (Bert, Roberta, Albert).
